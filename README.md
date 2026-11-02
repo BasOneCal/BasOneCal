@@ -20,7 +20,5 @@
 
 ## U can contact me here:
 
-- [Vkontakte](https://vk.com/alexyasakov)
 - **[Telegram](https://t.me/BasOneCal)**  <- best option
 - [Discord](https://discordapp.com/users/317395874646982656)
-- Mail: alex@yasakov.net
